@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nowaja hren
+=======
+new branch line
+>>>>>>> first_branch
