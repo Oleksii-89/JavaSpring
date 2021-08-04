@@ -13,5 +13,7 @@ public class TestSpring {
         System.out.println(testBean.getName());
 
         context.close();
+        
+        System.out.println("Hello my git commands!!");
     }
 }
